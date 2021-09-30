@@ -69,7 +69,7 @@ highlight_name: true
 
 Hello! This is Zijian!
 
-I am currently an Master of Science in Computer Science and Engineering student at the University of Michigan. And, I am glad to...
+I am currently an Master of Science in Computer Science and Engineering student at the University of Michigan. I am glad to be advised by Prof. Ivo Dinov at SOCR and Prof. Hun-Seok Kim in his Lab as a research assistant.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
