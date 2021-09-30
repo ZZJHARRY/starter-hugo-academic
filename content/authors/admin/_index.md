@@ -10,7 +10,7 @@ role: M.S. in Computer Science and Engineering
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of michigan
+- name: University of Michigan
   url: https://www.umich.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,15 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Computer Science and Engineering
+    institution: University of Michigan
+    year: 2022
+  - course: BSc in Computer Science and Pure Mathematics
+    institution: University of Michigan
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
