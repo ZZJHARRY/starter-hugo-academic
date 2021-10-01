@@ -71,6 +71,8 @@ Hello! This is Zijian!
 
 I am currently an Master of Science in Computer Science and Engineering student at the University of Michigan. I am glad to be advised by Prof. [Ivo Dinov](https://www.socr.umich.edu/people/dinov/) at [SOCR](https://www.socr.umich.edu/html/SOCR_Research.html) and Prof. [Hun-Seok Kim](https://kim.engin.umich.edu/) in his [Lab](https://kim.engin.umich.edu/people/) as a research assistant.
 
-During the summer of 2020, I was a software development engineer at [Amazon.com](https://www.amazon.com/).
+During the summer of 2020, I was a software development engineer intern at [Amazon.com](https://www.amazon.com/).
+
+Coursework: Artifical Intelligence(A+), Database(A+), Machine Learning(A), Computer Organization(A+), Data Structure and Algorithms(A), Combinatorics(A), Multivaribale Calculus(A+), Linear Algebra(A), Differetial Equations(A), Computer Vision(currently taking), Information Retrival(currently taking), Topology(A), Real Analysis(A), Modern Algebra(A)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
