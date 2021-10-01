@@ -18,19 +18,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
 
 # Education to show in About widget
 education:
   courses:
-  - course: MS in Computer Science and Engineering
+  - course: MSc in Computer Science and Engineering
     institution: University of Michigan
-    year: 2022
+    Expected graduation year: 2022
   - course: BSc in Computer Science and Pure Mathematics
     institution: University of Michigan
-    year: 2021
+    Graduated time: May 2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
