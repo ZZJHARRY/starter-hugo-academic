@@ -73,6 +73,8 @@ I am currently an Master of Science in Computer Science and Engineering student 
 
 During the summer of 2020, I was a software development engineer intern at [Amazon.com](https://www.amazon.com/).
 
-Coursework: Artifical Intelligence(A+), Database(A+), Machine Learning(A), Computer Organization(A+), Data Structure and Algorithms(A), Combinatorics(A), Multivaribale Calculus(A+), Linear Algebra(A), Differetial Equations(A), Computer Vision(currently taking), Information Retrival(currently taking), Topology(A), Real Analysis(A), Modern Algebra(A)
+Coursework:
+- Computer Science and Engineering: Artifical Intelligence(A+), Database(A+), Machine Learning(A), Computer Organization(A+), Data Structure and Algorithms(A), Combinatorics(A), Computer Vision(currently taking), Information Retrival(currently taking)
+- Mathematics: Real Analysis(A), Modern Algebra(A), Multivaribale Calculus(A+), Linear Algebra(A), Differetial Equations(A), Topology(A)
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
