@@ -69,7 +69,7 @@ highlight_name: true
 
 Hello! This is Zijian!
 
-I am currently an Master of Science in Computer Science and Engineering student at the University of Michigan. I am glad to be advised by Prof. [Ivo Dinov](https://www.socr.umich.edu/people/dinov/) at [SOCR](https://www.socr.umich.edu/html/SOCR_Research.html) and Prof. [Hun-Seok Kim](https://kim.engin.umich.edu/) in his [Lab](https://kim.engin.umich.edu/people/) as a research assistant.
+I am currently an Master of Science in Computer Science and Engineering student at the University of Michigan. In May 2021, I obtained the bachelor of science degree from the University of Michigan, majoring in Computer Science and Pure Mathematics. I am glad to be advised by Prof. [Ivo Dinov](https://www.socr.umich.edu/people/dinov/) at [SOCR](https://www.socr.umich.edu/html/SOCR_Research.html) and Prof. [Hun-Seok Kim](https://kim.engin.umich.edu/) in his [Lab](https://kim.engin.umich.edu/people/) as a research assistant.
 
 During the summer of 2020, I was a software development engineer intern at [Amazon.com](https://www.amazon.com/).
 
