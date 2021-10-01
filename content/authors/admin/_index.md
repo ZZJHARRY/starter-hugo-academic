@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zijian Zhang
+title: Zijian Zhang | 张子健
 
 # Is this the primary user of the site?
 superuser: true
