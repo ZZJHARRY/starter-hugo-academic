@@ -32,32 +32,6 @@ experience:
     date_end: ''
     description: EECS 492 Introduction to Artifical Intelligence.
  
-  - title: Research Assistant
-    company: SOCR Group, University of Michigan
-    company_url: 'https://www.socr.umich.edu/'
-    company_logo: UM-Eng
-    location: Ann Arbor, MI
-    date_start: '2020-09-30'
-    date_end: ''
-    description: SOCR Group.
-    
-   - title: Research Assistant
-    company: Electrical and Computer Engineering Department, University of Michigan
-    company_url: 'https://kim.engin.umich.edu/'
-    company_logo: UM-Eng
-    location: Ann Arbor, MI
-    date_start: '2020-10-30'
-    date_end: '2021-11-15'
-    description: Prof. Kim's Lab.
- 
-   - title: Software Devlopment Engineer Intern
-    company: Amazon
-    company_url: 'www.amazon.com'
-    company_logo: Amazon-logo
-    location: Seattle, WA
-    date_start: '2021-01-01'
-    date_end: ''
-    description: Integrated Amazon Alexa with Knowledge Graph service.
   
 #  - title: CEO
 #    company: GenCoin
