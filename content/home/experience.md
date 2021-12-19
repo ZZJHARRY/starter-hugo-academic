@@ -55,8 +55,8 @@ experience:
     company_url: 'www.amazon.com'
     company_logo: Amazon-logo
     location: Seattle, WA
-    date_start: '2021-01-01'
-    date_end: ''
+    date_start: '2020-05-04'
+    date_end: '2020-07-24'
     description: Integrated Amazon Alexa with Knowledge Graph service.
  
   
