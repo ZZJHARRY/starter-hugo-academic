@@ -91,7 +91,8 @@ edit_page:
 show_related:
   book: true
   page: false
-  post: true
+#   Changed here
+  post: false
   project: true
   publication: true
   event: true
