@@ -25,17 +25,19 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: <font size="3"> All </font> 
+  - name: All
     tag: '*'
-  - name: <font size="3"> Machine Learning </font> 
+  - name: Machine Learning
     tag: Machine Learning
-  - name: <font size="3"> Deep Learning </font> 
+  - name: Deep Learning
     tag: Deep Learning
   - name: Natural Language Processing
     tag: Natural Language Processing
   - name: Information Retrieval
     tag: Information Retrieval
-
+  - name: Computer Vision
+    tag: Computer Vision
+    
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
