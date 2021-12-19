@@ -30,9 +30,9 @@ experience:
     location: Ann Arbor, MI
     date_start: '2022-01-01'
     date_end: ''
-    description: EECS 492 - Introduction to Artifical Intelligence
+    description: EECS 492 Introduction to Artifical Intelligence
  
-   - title: Research Assistant
+  - title: Research Assistant
     company: SOCR Group, University of Michigan
     company_url: 'https://www.socr.umich.edu/'
     company_logo: UM-Eng
