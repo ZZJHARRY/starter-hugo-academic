@@ -24,41 +24,55 @@ date_format: Jan 2006
 experience:
   
   - title: Graduate Student Instructor
-    company: University of Michigan
-    company_url: ''
+    company: Computer Science and Engineering Department, University of Michigan
+    company_url: 'https://cse.engin.umich.edu/'
     company_logo: UM-Eng
     location: Ann Arbor, MI
     date_start: '2022-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-  
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: org-gc
-    location: California
+    description: EECS 492 - Introduction to Artifical Intelligence
+ 
+   - title: Research Assistant
+    company: SOCR Group, University of Michigan
+    company_url: 'https://www.socr.umich.edu/'
+    company_logo: UM-Eng
+    location: Ann Arbor, MI
+    date_start: '2020-09-30'
+    date_end: ''
+    description: SOCR Group
+    
+   - title: Research Assistant
+    company: Electrical and Computer Engineering Department, University of Michigan
+    company_url: 'https://kim.engin.umich.edu/'
+    company_logo: UM-Eng
+    location: Ann Arbor, MI
+    date_start: '2020-10-30'
+    date_end: '2021-11-15'
+    description: Prof. Kim's Lab
+ 
+   - title: Software Devlopment Engineer Intern
+    company: Amazon
+    company_url: 'www.amazon.com'
+    company_logo: Amazon-logo
+    location: Seattle, WA
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: Integrated Amazon Alexa with Knowledge Graph service.
+  
+#  - title: CEO
+#    company: GenCoin
+#   company_url: ''
+#    company_logo: org-gc
+#   location: California
+#    date_start: '2021-01-01'
+#    date_end: ''
+#    description: |2-
+#        Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+#        * Analysing
+#        * Modelling
+#        * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
