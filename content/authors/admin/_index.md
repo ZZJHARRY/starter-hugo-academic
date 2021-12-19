@@ -79,4 +79,4 @@ Coursework:
 - Computer Science and Engineering: Artifical Intelligence(A+), Database(A+), Machine Learning(A), Computer Organization(A+), Data Structure and Algorithms(A), Combinatorics(A), Computer Vision(currently taking), Information Retrival(A+)
 - Mathematics: Real Analysis(A), Modern Algebra(A), Multivaribale Calculus(A+), Linear Algebra(A), Differetial Equations(A), Topology(A)
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
