@@ -40,6 +40,15 @@ experience:
     date_start: '2020-09-30'
     date_end: ''
     description: SOCR Group.
+    
+  - title: Research Assistant
+    company: Electrical and Computer Engineering Department, University of Michigan
+    company_url: 'https://kim.engin.umich.edu/'
+    company_logo: UM-Eng
+    location: Ann Arbor, MI
+    date_start: '2020-10-30'
+    date_end: '2021-11-15'
+    description: Prof. Kim's Lab.
  
   
 #  - title: CEO
