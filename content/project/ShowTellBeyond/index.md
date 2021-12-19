@@ -3,6 +3,7 @@ title: Show, Tell, and Beyond
 summary: EECS 442 - Computer Vision
 tags:
 - Deep Learning
+- Computer Vision
 - Natural Language Processing
 date: "2021-12-18T00:00:00Z"
 
