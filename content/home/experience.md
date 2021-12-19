@@ -26,7 +26,7 @@ experience:
   - title: Graduate Student Instructor
     company: University of Michigan
     company_url: ''
-    company_logo: org-gc
+    company_logo: UM-Eng
     location: Ann Arbor, MI
     date_start: '2022-01-01'
     date_end: ''
