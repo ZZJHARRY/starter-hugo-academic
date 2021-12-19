@@ -30,7 +30,7 @@ experience:
     location: Ann Arbor, MI
     date_start: '2022-01-01'
     date_end: ''
-    description: EECS 492 Introduction to Artifical Intelligence
+    description: EECS 492 Introduction to Artifical Intelligence.
  
   - title: Research Assistant
     company: SOCR Group, University of Michigan
@@ -39,7 +39,7 @@ experience:
     location: Ann Arbor, MI
     date_start: '2020-09-30'
     date_end: ''
-    description: SOCR Group
+    description: SOCR Group.
     
    - title: Research Assistant
     company: Electrical and Computer Engineering Department, University of Michigan
@@ -48,7 +48,7 @@ experience:
     location: Ann Arbor, MI
     date_start: '2020-10-30'
     date_end: '2021-11-15'
-    description: Prof. Kim's Lab
+    description: Prof. Kim's Lab.
  
    - title: Software Devlopment Engineer Intern
     company: Amazon
