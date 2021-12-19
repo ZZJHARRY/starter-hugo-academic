@@ -1,9 +1,10 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Clinical Notes De-identification System
+summary: SOCR Research Project - Data Sifter
 tags:
 - Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Natural Language Processing
+date: "2021-12-18T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
