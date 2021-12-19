@@ -29,6 +29,8 @@ content:
     tag: '*'
   - name: Deep Learning
     tag: Deep Learning
+  - name: Natural Lanuage Processing
+    tag: Natural Lanuage Processing
   - name: Other
     tag: Demo
 
