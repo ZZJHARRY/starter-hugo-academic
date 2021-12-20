@@ -35,7 +35,7 @@ experience:
   - title: Research Assistant
     company: SOCR Group, University of Michigan
     company_url: 'https://www.socr.umich.edu/'
-    company_logo: UM-Eng
+    company_logo: SOCR
     location: Ann Arbor, MI
     date_start: '2020-09-30'
     date_end: ''
@@ -58,6 +58,16 @@ experience:
     date_start: '2020-05-04'
     date_end: '2020-07-24'
     description: Integrated Amazon Alexa with Knowledge Graph service.
+    
+  
+  - title: Undergraduate Student Researcher
+    company: Department of Mathematics, University of Michigan
+    company_url: 'https://lsa.umich.edu/math/undergraduates/research-and-career-opportunities/LoGM.html'
+    company_logo: UM
+    location: Ann Arbor, MI
+    date_start: '2020-01-01'
+    date_end: '2021-09-28'
+    description: Lab of Geometry LoG(M).
  
   
 #  - title: CEO
