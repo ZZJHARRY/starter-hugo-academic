@@ -41,6 +41,19 @@ experience:
     date_end: ''
     description: SOCR Group.
     
+  - title: Grader
+    company: University of Michigan
+    company_url: 'https://www.umich.edu/'
+    company_logo: UM
+    location: Ann Arbor, MI
+    date_start: '2019-01-15'
+    date_end: '2021-12-17'
+    description: |2-
+       Grader for several Math and CS courses:
+        
+       * Computer Science: Artificial Intelligence, Machine Learning, Computer Organization
+       * Mathematics: Linear Algebra, Differential Equation
+    
   - title: Research Assistant
     company: Electrical and Computer Engineering Department, University of Michigan
     company_url: 'https://kim.engin.umich.edu/'
