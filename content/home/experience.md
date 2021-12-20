@@ -52,7 +52,7 @@ experience:
     
   - title: Software Devlopment Engineer Intern
     company: Amazon
-    company_url: 'www.amazon.com'
+    company_url: 'https://www.amazon.com/'
     company_logo: Amazon-logo
     location: Seattle, WA
     date_start: '2020-05-04'
