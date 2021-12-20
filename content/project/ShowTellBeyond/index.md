@@ -1,6 +1,6 @@
 ---
-title: Image Captioning: Show, Tell, and Beyond
-summary: EECS 442 Computer Vision
+title: Image Captioning - Show, Tell, and Beyond
+summary: EECS 442 - Computer Vision
 tags:
 - Deep Learning
 - Computer Vision
