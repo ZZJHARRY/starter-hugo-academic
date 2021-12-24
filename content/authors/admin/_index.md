@@ -76,7 +76,7 @@ Previously, I was advised by Prof. [Hun-Seok Kim](https://kim.engin.umich.edu/) 
 During summer 2020, I was a software development engineer intern at [Amazon](https://www.amazon.com/). My project was to integrate [Amazon Alexa](https://developer.amazon.com/en-US/alexa) with [Knowledge Graph](https://www.ibm.com/topics/knowledge-graph) service.
 
 Coursework:
-- Computer Science and Engineering: Artifical Intelligence(A+), Database(A+), Machine Learning(A), Computer Organization(A+), Data Structure and Algorithms(A), Combinatorics(A), Computer Vision(currently taking), Information Retrival(A+)
+- Computer Science and Engineering: Artifical Intelligence(A+), Database(A+), Machine Learning(A), Computer Organization(A+), Data Structure and Algorithms(A), Combinatorics(A), Computer Vision(A), Information Retrival(A+), Natural Language Processing (currently taking), Design and Analysis of Algorithms (currently taking)
 - Mathematics: Real Analysis(A), Modern Algebra(A), Multivaribale Calculus(A+), Linear Algebra(A), Differetial Equations(A), Topology(A)
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
