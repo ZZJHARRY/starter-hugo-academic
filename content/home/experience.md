@@ -22,6 +22,18 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Software Devlopment Engineer Intern
+    company: Amazon
+    company_url: 'https://www.amazon.com/'
+    company_logo: Amazon-logo
+    location: Seattle, WA
+    date_start: '2020-05-23'
+    date_end: '2020-08-12'
+    description:
+    
+        * Amazon Business Payments
+        * Built a new pipeline from stratch
   
   - title: Graduate Student Instructor
     company: Computer Science and Engineering Department, University of Michigan
@@ -70,7 +82,10 @@ experience:
     location: Seattle, WA
     date_start: '2020-05-04'
     date_end: '2020-07-24'
-    description: Integrated Amazon Alexa with Knowledge Graph service.
+    description:
+    
+       * Amazon Alexa
+       * Integrated Alexa Help Domain with Knowledge Graph
     
   
   - title: Undergraduate Student Researcher
