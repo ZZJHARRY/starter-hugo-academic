@@ -41,7 +41,7 @@ experience:
     company_logo: UM-Eng
     location: Ann Arbor, MI
     date_start: '2022-01-01'
-    date_end: ''
+    date_end: '2022-05-01'
     description: EECS 492 Introduction to Artifical Intelligence.
     
   - title: Research Assistant
@@ -50,7 +50,7 @@ experience:
     company_logo: SOCR
     location: Ann Arbor, MI
     date_start: '2020-09-30'
-    date_end: ''
+    date_end: '2022-05-01'
     description: SOCR Group.
     
   - title: Grader
