@@ -30,7 +30,7 @@ experience:
     location: Seattle, WA
     date_start: '2020-05-23'
     date_end: '2020-08-12'
-    description:
+    description:|2-
     
         * Amazon Business Payments
         * Built a new pipeline from stratch
@@ -82,7 +82,7 @@ experience:
     location: Seattle, WA
     date_start: '2020-05-04'
     date_end: '2020-07-24'
-    description:
+    description:|2-
     
        * Amazon Alexa
        * Integrated Alexa Help Domain with Knowledge Graph
