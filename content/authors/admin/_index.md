@@ -80,6 +80,8 @@ Previously, I was advised by Prof. [Hun-Seok Kim](https://kim.engin.umich.edu/) 
 
 During summer 2020 and 2022, I was a software development engineer intern at [Amazon](https://www.amazon.com/). My internship projects were to integrate [Amazon Alexa](https://developer.amazon.com/en-US/alexa) with [Knowledge Graph](https://www.ibm.com/topics/knowledge-graph) service, and build a new pipeline in [Amazon Business](https://business.amazon.com/) from stratch, respectively.
 
+🌟 [Here](https://drive.google.com/file/d/1LBO4XV-T2BuA4FYexGpqvTaypl1jukGM/view?usp=sharing) is my recent resume!
+
 Coursework:
 - Data Science: Big Data Analytics(A+), Statistics for Data Science(A+), Information Retrival(A+)
 - Computer Science (Machine Learning): Artifical Intelligence(A+), Machine Learning(A), Computer Vision(A)
