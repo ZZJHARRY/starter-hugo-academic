@@ -26,7 +26,7 @@ experience:
   - title: Teaching Assistant
     company: University of Pennsylvania
     company_url: 'https://www.cis.upenn.edu/'
-    company_logo: Amazon-logo
+    company_logo: upenn-logo
     location: Philadelphia, PA
     date_start: '2023-01-01'
     date_end: ''
