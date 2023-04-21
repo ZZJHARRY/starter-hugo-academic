@@ -29,7 +29,7 @@ experience:
     company_logo: Amazon-logo
     location: Philadelphia, PA
     date_start: '2023-01-01'
-<!--     date_end: '2022-08-12' -->
+    date_end: ''
     description: |2-
     
         * CIS 5450 - Big Data Analytics
