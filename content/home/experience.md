@@ -22,14 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-
+  
+  - title: Teaching Assistant
+    company: University of Pennsylvania
+    company_url: 'https://www.cis.upenn.edu/'
+    company_logo: Amazon-logo
+    location: Philadelphia, PA
+    date_start: '2023-01-01'
+<!--     date_end: '2022-08-12' -->
+    description: |2-
+    
+        * CIS 5450 - Big Data Analytics
+  
   - title: Software Devlopment Engineer Intern
     company: Amazon
     company_url: 'https://www.amazon.com/'
     company_logo: Amazon-logo
     location: Seattle, WA
-    date_start: '2020-05-23'
-    date_end: '2020-08-12'
+    date_start: '2022-05-23'
+    date_end: '2022-08-12'
     description: |2-
     
         * Amazon Business Payments
