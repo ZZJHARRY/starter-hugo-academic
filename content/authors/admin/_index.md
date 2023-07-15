@@ -82,6 +82,7 @@ During the summer of 2020 and 2022, I was a software development engineer intern
 
 🌟 [Here](https://drive.google.com/file/d/18Jo5NZniD5iLqnSdQoqxDQ59rKEEc-Jr/view?usp=sharing) is my recent resume!
 
+<!---
 Coursework:
 - Computer Science (Software Development)
   * Database(A+)
@@ -109,5 +110,6 @@ Coursework:
   * Differential Equations(A)
   * Topology(A)
   * Combinatorics(A)
+-->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
