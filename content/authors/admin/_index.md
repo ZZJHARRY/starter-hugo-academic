@@ -20,8 +20,6 @@ bio: My career interests include software engineering, data science, and machine
 interests:
 - Software Engineering
 - Data Science
-- Deep Learning
-- Computer Vision
 - Natural Language Processing
 
 # Education to show in About widget
@@ -74,18 +72,18 @@ highlight_name: true
 
 Hello! This is Zijian!
 
-I am currently a graduate student studying Data Science at the University of Pennsylvania. In August 2022, I obtained the master of science from the University of Michigan, studying computer science and engineering. In May 2021, I obtained the bachelor of science degree from the University of Michigan, majoring in Computer Science and Pure Mathematics.
+I am currently a graduate student studying Data Science at the University of Pennsylvania. In August 2022, I obtained my master of science degree from the University of Michigan, studying computer science and engineering. In May 2021, I obtained my bachelor of science degree from the University of Michigan, majoring in Computer Science and Pure Mathematics.
 
-Previously, I was advised by Prof. [Hun-Seok Kim](https://kim.engin.umich.edu/) in his [Lab](https://kim.engin.umich.edu/people/) and by Prof. [Ivo Dinov](https://www.socr.umich.edu/people/dinov/) at [SOCR](https://www.socr.umich.edu/html/SOCR_Research.html) as a research assistant.
+Previously, I was advised by Dr. [Jamie Samper](https://aiab.wharton.upenn.edu/about-aiab/team/) at [Wharton AI & Analytics for Business (AIAB)](https://aiab.wharton.upenn.edu/), Prof. [Hun-Seok Kim](https://kim.engin.umich.edu/) in his [Lab](https://kim.engin.umich.edu/people/) and by Prof. [Ivo Dinov](https://www.socr.umich.edu/people/dinov/) at [SOCR](https://www.socr.umich.edu/html/SOCR_Research.html) as a research assistant.
 
-During summer 2020 and 2022, I was a software development engineer intern at [Amazon](https://www.amazon.com/). My internship projects were to integrate [Amazon Alexa](https://developer.amazon.com/en-US/alexa) with [Knowledge Graph](https://www.ibm.com/topics/knowledge-graph) service, and build a new pipeline in [Amazon Business](https://business.amazon.com/) from stratch, respectively.
+During the summer of 2020 and 2022, I was a software development engineer intern at [Amazon](https://www.amazon.com/). My internship projects were to integrate [Amazon Alexa](https://developer.amazon.com/en-US/alexa) with [Knowledge Graph](https://www.ibm.com/topics/knowledge-graph) service, and build a new pipeline in [Amazon Business](https://business.amazon.com/) from scratch, respectively.
 
-🌟 [Here](https://drive.google.com/file/d/1LBO4XV-T2BuA4FYexGpqvTaypl1jukGM/view?usp=sharing) is my recent resume!
+🌟 [Here](https://drive.google.com/file/d/18Jo5NZniD5iLqnSdQoqxDQ59rKEEc-Jr/view?usp=sharing) is my recent resume!
 
 Coursework:
-- Data Science: Big Data Analytics(A+), Statistics for Data Science(A+), Information Retrival(A+)
-- Computer Science (Machine Learning): Artifical Intelligence(A+), Machine Learning(A), Computer Vision(A)
 - Computer Science (Software Development): Database(A+), Computer Organization(A+), Data Structure and Algorithms(A), Web System(A+), Web Development(A+)
+- Data Science: Big Data Analytics(A+), Statistics for Data Science(A+), Data and Analysis for Marketing Decisions(A, Wharton), Forecasting Methods for Management(A, Wharton) Information Retrival(A+)
+- Computer Science (Machine Learning): Artifical Intelligence(A+), Machine Learning(A), Computer Vision(A)
 - Mathematics: Real Analysis(A), Modern Algebra(A), Multivaribale Calculus(A+), Linear Algebra(A), Differetial Equations(A), Topology(A), Combinatorics(A)
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
