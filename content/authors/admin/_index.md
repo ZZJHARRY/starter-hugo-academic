@@ -72,7 +72,7 @@ highlight_name: true
 
 Hello! This is Zijian! 🧑‍💻
 
-I am currently a graduate student studying Data Science at the University of Pennsylvania. For this summer of 2023, I am a data science intern at [Climate AI](https://climate.ai/), and I am building a comprehensive dashboard for companies and agronomists to map out long-term climate resilience strategies.
+I am currently a graduate student studying Data Science at the [University of Pennsylvania(UPenn)](https://www.upenn.edu/). For this summer of 2023, I am a data science intern at [Climate AI](https://climate.ai/), and I am building a comprehensive dashboard for companies and agronomists to map out long-term climate resilience strategies.
 
 Previously, I graduated from the University of Michigan with M.S. in Computer Science and B.S. in Computer Science & Mathematics (dual major). During my study at UMich, I was advised by Dr. [Jamie Samper](https://aiab.wharton.upenn.edu/about-aiab/team/) at [Wharton AI & Analytics for Business (AIAB)](https://aiab.wharton.upenn.edu/), Prof. [Hun-Seok Kim](https://kim.engin.umich.edu/) in his [Lab](https://kim.engin.umich.edu/people/) and by Prof. [Ivo Dinov](https://www.socr.umich.edu/people/dinov/) at [SOCR](https://www.socr.umich.edu/html/SOCR_Research.html) as a research assistant.
 
