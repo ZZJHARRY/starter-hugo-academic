@@ -25,7 +25,7 @@ experience:
 
   - title: Data Science Intern
     company: Climate AI
-    company_url: '[https://www.amazon.com/](https://climate.ai/)'
+    company_url: 'https://climate.ai/'
     company_logo: climateai-logo
     location: Seattle, WA
     date_start: '2022-06-12'
@@ -38,8 +38,8 @@ experience:
 
   - title: Research Assistant
     company: AIAB, Wharton, UPenn
-    company_url: '[https://www.socr.umich.edu/](https://aiab.wharton.upenn.edu/)'
-    company_logo: upenn-logo
+    company_url: 'https://aiab.wharton.upenn.edu/'
+    company_logo: upenn-wharton-logo
     location: Philadelphia, PA
     date_start: '2023-04-01'
     date_end: '2022-06-30'
