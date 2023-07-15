@@ -83,9 +83,31 @@ During the summer of 2020 and 2022, I was a software development engineer intern
 🌟 [Here](https://drive.google.com/file/d/18Jo5NZniD5iLqnSdQoqxDQ59rKEEc-Jr/view?usp=sharing) is my recent resume!
 
 Coursework:
-- Computer Science (Software Development): Database(A+), Computer Organization(A+), Data Structure and Algorithms(A), Web System(A+), Web Development(A+)
-- Data Science: Big Data Analytics(A+), Statistics for Data Science(A+), Data and Analysis for Marketing Decisions(A, Wharton), Forecasting Methods for Management(A, Wharton) Information Retrival(A+)
-- Computer Science (Machine Learning): Artifical Intelligence(A+), Machine Learning(A), Computer Vision(A)
-- Mathematics: Real Analysis(A), Modern Algebra(A), Multivaribale Calculus(A+), Linear Algebra(A), Differetial Equations(A), Topology(A), Combinatorics(A)
+- Computer Science (Software Development)
+  * Database(A+)
+  * Computer Organization(A+)
+  * Data Structure and Algorithms(A)
+  * Web System(A+)
+  * Web Application Development(A+)
+  * Algorithms Design(A)
+- Computer Science (Machine Learning):
+  * Artificial Intelligence(A+)
+  * Machine Learning(A)
+  * Theoretical Machine Learning(A)
+  * Deep Learning for Computer Vision(A)
+- Data Science:
+  * Big Data Analytics(A+)
+  * Statistics for Data Science(A+)
+  * Data and Analysis for Marketing Decisions(A, Wharton)
+  * Forecasting Methods for Management(A, Wharton)
+  * Information Retrieval(A+)
+- Mathematics:
+  * Real Analysis(A)
+  * Modern Algebra(A)
+  * Multivariable Calculus(A+)
+  * Linear Algebra(A)
+  * Differential Equations(A)
+  * Topology(A)
+  * Combinatorics(A)
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
