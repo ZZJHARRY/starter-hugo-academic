@@ -22,6 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Data Science Intern
+    company: Climate AI
+    company_url: '[https://www.amazon.com/](https://climate.ai/)'
+    company_logo: climateai-logo
+    location: Seattle, WA
+    date_start: '2022-06-12'
+    date_end: ''
+    description: |2-
+    
+        * Built a comprehensive dashboard for long-term climate resilience strategies
+        * Web Scraping (Selenium, Beautiful Soup)
+        * OpenAI Ada, GPT-3.5, GPT-4
+
+  - title: Research Assistant
+    company: AIAB, Wharton, UPenn
+    company_url: '[https://www.socr.umich.edu/](https://aiab.wharton.upenn.edu/)'
+    company_logo: upenn-logo
+    location: Philadelphia, PA
+    date_start: '2023-04-01'
+    date_end: '2022-06-30'
+    description: AIAB Data Science Project
   
   - title: Teaching Assistant
     company: University of Pennsylvania
@@ -29,12 +51,12 @@ experience:
     company_logo: upenn-logo
     location: Philadelphia, PA
     date_start: '2023-01-01'
-    date_end: ''
+    date_end: '2023-05-12'
     description: |2-
     
         * CIS 5450 - Big Data Analytics
   
-  - title: Software Devlopment Engineer Intern
+  - title: Software Development Engineer Intern
     company: Amazon
     company_url: 'https://www.amazon.com/'
     company_logo: Amazon-logo
@@ -44,7 +66,7 @@ experience:
     description: |2-
     
         * Amazon Business Payments
-        * Built a new pipeline from stratch
+        * Built a new pipeline from Scratch
   
   - title: Graduate Student Instructor
     company: Computer Science and Engineering Department, University of Michigan
@@ -53,7 +75,7 @@ experience:
     location: Ann Arbor, MI
     date_start: '2022-01-01'
     date_end: '2022-05-01'
-    description: EECS 492 Introduction to Artifical Intelligence.
+    description: EECS 492 Introduction to Artificial Intelligence.
     
   - title: Research Assistant
     company: SOCR Group, University of Michigan
@@ -86,7 +108,7 @@ experience:
     date_end: '2021-11-15'
     description: Prof. Kim's Lab.
     
-  - title: Software Devlopment Engineer Intern
+  - title: Software Development Engineer Intern
     company: Amazon
     company_url: 'https://www.amazon.com/'
     company_logo: Amazon-logo
